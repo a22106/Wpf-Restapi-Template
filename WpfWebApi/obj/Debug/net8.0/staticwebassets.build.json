@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rAfa2HyxWPWcTKa2KbzPNfDB5ec4OQbggGquxtdE9HY=",
+  "Source": "WpfWebApi",
+  "BasePath": "_content/WpfWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
